@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 
-    @Value("${test.hello:TEST123}")
+    @Value("${test.hello:TEST9}")
     private String testHello;
 
     @RequestMapping(value = "/hello",method = RequestMethod.GET)
