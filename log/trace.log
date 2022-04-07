@@ -20,3 +20,490 @@
 2022-04-07 14:21:47.753 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
 2022-04-07 14:21:47.754 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
 2022-04-07 14:21:47.755 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2022-04-07 16:06:25.068 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:06:26.931 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:06:26.931 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:06:28.382 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:06:28.554 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:06:28.556 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:06:28.556 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:06:28.556 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:06:28.648 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:06:28.648 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1713 ms
+2022-04-07 16:06:28.721 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:06:28.730 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:06:29.084 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:06:29.088 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:06:29.093 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:06:29.097 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 2.349 seconds (JVM running for 6380.474)
+2022-04-07 16:06:29.099 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:06:29.099 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:06:29.099 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:06:30.690 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:06:30.882 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:06:30.882 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:06:31.011 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:06:31.292 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:06:31.292 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:06:31.292 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:06:31.293 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:06:31.372 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:06:31.373 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 487 ms
+2022-04-07 16:06:31.398 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:06:31.405 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:06:31.458 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:06:31.461 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:06:31.466 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:06:31.469 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 0.658 seconds (JVM running for 6382.846)
+2022-04-07 16:06:31.470 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:06:31.471 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:06:31.471 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:06:33.061 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:06:33.173 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:06:33.173 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:06:33.280 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:06:33.314 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:06:33.315 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:06:33.316 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:06:33.316 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:06:33.342 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:06:33.343 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 167 ms
+2022-04-07 16:06:33.407 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:06:33.414 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:06:33.462 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:06:33.465 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:06:33.470 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:06:33.473 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 0.323 seconds (JVM running for 6384.851)
+2022-04-07 16:06:33.474 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:06:33.475 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:06:33.475 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:08:33.298 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:33.402 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:08:33.402 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:08:33.570 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:08:33.618 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:08:33.619 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:33.619 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:08:33.619 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:08:33.659 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:08:33.659 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 255 ms
+2022-04-07 16:08:33.685 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:33.693 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:08:33.745 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:08:33.748 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:33.753 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:08:33.756 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 0.389 seconds (JVM running for 6505.133)
+2022-04-07 16:08:33.757 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:08:33.758 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:08:33.758 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:08:54.125 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:54.223 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:08:54.223 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:08:54.380 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:08:54.411 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:08:54.412 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:54.412 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:08:54.412 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:08:54.451 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:08:54.451 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 226 ms
+2022-04-07 16:08:54.484 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:54.493 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:08:54.547 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:08:54.550 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:54.558 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:08:54.561 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 0.37 seconds (JVM running for 6525.938)
+2022-04-07 16:08:54.563 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:08:54.563 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:08:54.564 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:08:56.149 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:56.348 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:08:56.376 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:08:56.500 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:08:56.525 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:08:56.526 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:56.526 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:08:56.526 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:08:56.557 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:08:56.557 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 165 ms
+2022-04-07 16:08:56.581 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:56.589 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:08:56.630 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:08:56.633 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:56.638 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:08:56.640 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 0.358 seconds (JVM running for 6528.018)
+2022-04-07 16:08:56.641 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:08:56.642 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:08:56.642 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:08:58.242 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:58.314 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:08:58.314 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:08:58.413 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:08:58.436 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:08:58.437 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:58.437 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:08:58.437 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:08:58.470 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:08:58.471 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 156 ms
+2022-04-07 16:08:58.505 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:08:58.512 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:08:58.560 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:08:58.564 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:08:58.571 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:08:58.574 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 0.278 seconds (JVM running for 6529.952)
+2022-04-07 16:08:58.577 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:08:58.578 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:08:58.578 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:09:07.306 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:09:07.386 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:09:07.387 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:09:07.493 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:09:07.541 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:09:07.541 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:09:07.541 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:09:07.541 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:09:07.566 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:09:07.566 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 178 ms
+2022-04-07 16:09:07.590 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:09:07.596 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:09:07.641 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:09:07.644 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:09:07.647 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:09:07.650 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 0.285 seconds (JVM running for 6539.026)
+2022-04-07 16:09:07.651 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-04-07 16:09:07.651 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:09:07.651 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:09:52.076 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:09:52.153 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:09:52.153 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:09:52.301 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:09:52.356 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:09:52.357 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:09:52.357 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:09:52.357 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:09:52.391 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:09:52.391 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 236 ms
+2022-04-07 16:09:52.431 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:09:52.431 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:09:52.481 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:09:52.630 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:10:44.128 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:10:44.129 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:10:44.267 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:10:44.313 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:10:44.313 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:10:44.313 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:10:44.313 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:10:44.369 INFO  o.a.c.c.ContainerBase.[Tomcat-1].[localhost].[/]  :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:10:44.369 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 239 ms
+2022-04-07 16:10:44.375 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:10:44.375 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:10:44.379 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:10:44.381 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:10:56.424 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:10:56.425 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:10:56.560 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:10:56.591 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:10:56.591 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:10:56.591 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:10:56.591 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:10:56.620 INFO  o.a.c.c.ContainerBase.[Tomcat-2].[localhost].[/]  :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:10:56.621 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 194 ms
+2022-04-07 16:10:56.633 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:10:56.636 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:10:56.642 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:10:56.644 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:11:27.716 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:11:27.717 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:11:27.921 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:11:27.971 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:11:27.972 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:11:27.972 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:11:27.972 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:11:28.157 INFO  o.a.c.c.ContainerBase.[Tomcat-3].[localhost].[/]  :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:11:28.157 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 387 ms
+2022-04-07 16:11:28.163 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:11:28.164 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:11:28.168 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:11:28.171 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:11:45.987 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:11:45.987 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:11:46.111 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:11:46.135 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:11:46.136 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:11:46.136 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:11:46.136 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:11:46.160 INFO  o.a.c.c.ContainerBase.[Tomcat-4].[localhost].[/]  :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:11:46.160 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 171 ms
+2022-04-07 16:11:46.166 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:11:46.167 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:11:46.171 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:11:46.173 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:13:26.454 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:13:26.454 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:13:26.563 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:13:26.612 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:13:26.613 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:13:26.613 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:13:26.613 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:13:26.651 INFO  o.a.c.c.ContainerBase.[Tomcat-5].[localhost].[/]  :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:13:26.651 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 195 ms
+2022-04-07 16:13:26.659 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:13:26.659 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:13:26.663 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:13:26.665 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:14:03.928 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 8756 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:14:03.929 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:14:04.041 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:14:04.108 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:14:04.108 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:14:04.109 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:14:04.109 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:14:04.134 INFO  o.a.c.c.ContainerBase.[Tomcat-6].[localhost].[/]  :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:14:04.135 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 205 ms
+2022-04-07 16:14:04.142 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:14:04.142 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:14:04.147 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:14:04.149 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:15:51.361 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 20048 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:15:51.382 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:15:51.523 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-07 16:15:51.523 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-07 16:15:52.653 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:15:53.485 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:15:53.568 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:15:53.569 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:15:53.569 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:15:53.694 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:15:53.694 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 2170 ms
+2022-04-07 16:15:53.921 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:15:53.924 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:15:54.043 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:15:54.070 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:16:03.961 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 24800 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:16:03.963 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:16:03.996 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-07 16:16:03.997 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-07 16:16:04.473 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner  :44   [32m                  [0;39m No MyBatis mapper was found in '[com.jiawa.wiki]' package. Please check your configuration.
+2022-04-07 16:16:04.886 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:16:04.892 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:16:04.893 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:16:04.893 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:16:04.966 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:16:04.966 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 968 ms
+2022-04-07 16:16:04.999 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'demoService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiawa.wiki.mapper.DemoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2022-04-07 16:16:05.001 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2022-04-07 16:16:05.011 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-07 16:16:05.025 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:19:23.468 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 18716 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:19:23.471 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:19:23.506 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-07 16:19:23.506 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-07 16:19:24.241 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:19:24.247 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:19:24.247 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:19:24.247 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:19:24.350 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:19:24.351 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 844 ms
+2022-04-07 16:19:28.821 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:19:29.714 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:19:30.455 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:19:30.488 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:19:30.519 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:19:30.565 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 7.404 seconds (JVM running for 8.207)
+2022-04-07 16:19:30.567 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:19:30.568 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:19:42.062 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-07 16:19:42.062 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-04-07 16:19:42.063 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2022-04-07 16:19:42.151 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2022-04-07 16:19:42.918 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
+2022-04-07 16:25:38.474 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 9220 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:25:38.481 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:25:38.540 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-07 16:25:38.541 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-07 16:25:39.703 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:25:39.710 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:25:39.711 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:25:39.711 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:25:39.793 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:25:39.793 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1252 ms
+2022-04-07 16:25:40.255 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:25:40.300 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:25:40.418 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:25:40.426 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:25:40.442 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:25:40.450 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 2.538 seconds (JVM running for 4.295)
+2022-04-07 16:25:40.452 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:25:40.452 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:25:43.429 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-07 16:25:43.429 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-04-07 16:25:43.430 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2022-04-07 16:25:52.811 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2022-04-07 16:25:53.421 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
+2022-04-07 16:32:06.646 INFO  com.jiawa.wiki.WikiApplication                    :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_131 on CHENXIANBO with PID 20372 (D:\2\jiawawiki\target\classes started by Administrator in D:\2\jiawawiki)
+2022-04-07 16:32:06.660 INFO  com.jiawa.wiki.WikiApplication                    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-04-07 16:32:06.854 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-07 16:32:06.854 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-07 16:32:10.917 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-04-07 16:32:10.990 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:32:10.991 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-04-07 16:32:10.991 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-04-07 16:32:11.532 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-04-07 16:32:11.533 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 4678 ms
+2022-04-07 16:32:13.169 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-07 16:32:13.277 INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping     :54   [32m                  [0;39m Adding welcome page: class path resource [static/index.html]
+2022-04-07 16:32:13.439 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-04-07 16:32:13.447 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-04-07 16:32:13.489 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-07 16:32:13.496 INFO  com.jiawa.wiki.WikiApplication                    :61   [32m                  [0;39m Started WikiApplication in 8.343 seconds (JVM running for 12.575)
+2022-04-07 16:32:13.498 INFO  com.jiawa.wiki.WikiApplication                    :21   [32m                  [0;39m 启动成功！
+2022-04-07 16:32:13.498 INFO  com.jiawa.wiki.WikiApplication                    :22   [32m                  [0;39m 地址：	 http://127.0.0.1:8080
+2022-04-07 16:32:19.743 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-07 16:32:19.743 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-04-07 16:32:19.744 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2022-04-07 16:32:19.789 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2022-04-07 16:32:22.427 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
