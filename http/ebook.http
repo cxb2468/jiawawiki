@@ -1,4 +1,4 @@
-GET http://localhost:8080/demo/list
-Accept: application/json
+GET http://localhost:8080/ebook/list
 Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+
 ###

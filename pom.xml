@@ -78,6 +78,8 @@
                 <version>2.4.0</version>
                 <configuration>
                     <mainClass>com.jiawa.wiki.WikiApplication</mainClass>
+                    <!-- spring-boot:run 中文乱码解决 -->
+                    <jvmArguments>-Dfile.encoding=UTF-8</jvmArguments>
                 </configuration>
                 <executions>
                     <execution>

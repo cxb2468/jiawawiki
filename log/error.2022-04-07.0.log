@@ -1,0 +1,135 @@
+2022-04-07 16:09:52.630 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:10:44.381 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:10:56.644 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:11:28.171 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:11:46.173 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:13:26.665 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:14:04.149 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:15:54.070 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
+2022-04-07 16:16:05.025 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.jiawa.wiki.mapper.DemoMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.jiawa.wiki.mapper.DemoMapper' in your configuration.
+
