@@ -28,6 +28,7 @@ public class EbookController {
         System.out.println("中文中文奥术大师多asda");
         System.out.println(System.getProperty("file.encoding"));
         CommonResp<List<EbookResp>> resp = new CommonResp<>();
+        System.out.println(ebookService.list(req));
         List<EbookResp> list = ebookService.list(req);
         resp.setContent(list);
         return resp;

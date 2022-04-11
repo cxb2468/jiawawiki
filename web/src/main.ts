@@ -5,8 +5,12 @@ import store from './store'
 //导入ant Design vue
 import Antd from 'ant-design-vue';
 import 'ant-design-vue/dist/antd.css';
+//导入 icon图标库
 import * as Icons from '@ant-design/icons-vue';
 import {message} from 'ant-design-vue';
+//导入 icon图标库
+
+
 
 
 const app = createApp(App);
